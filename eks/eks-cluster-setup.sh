@@ -1,6 +1,6 @@
 # Variables
 CLUSTER_NAME=vprofile-eks-cluster
-REGION=us-east-2
+REGION=us-west-2
 NODE_NAME=Linux-nodes
 KEY_NAME=vprofile-eks-key
 
